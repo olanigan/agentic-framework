@@ -17,18 +17,19 @@ Agentic AI refers to artificial intelligence systems that can operate with varyi
 
 These are libraries used to interact with the Foundation models
 
-| Name | Team/Author | Languages |
-|---|---|---|
-Instructor  | Jason Liu | Python, JavaScript |
-Langchain    | Langchain   | Python, JavaScript |
-LlamaIndex  | LlamaIndex  | Python, JavaScript |
-DSPy        | Stanford NLP | Python |
-Amazon Bedrock | Amazon | Python |
-Azure AI | Microsoft | Python |
-Vertex AI | Google | Python |
-OpenAI SDK | OpenAI | Python |
+| Name | Team/Author | Languages | Getting Started |
+|---|---|---|---|
+Instructor  | Jason Liu | [Python](https://python.useinstructor.com/), [JavaScript](https://js.useinstructor.com/) | [Notebook](tools/instructor/Getting_Started.ipynb) |
+Langchain    | Langchain   | [Python](https://python.langchain.com/docs/introduction/), JavaScript | |
+LlamaIndex  | LlamaIndex  | Python, JavaScript | |
+DSPy       | Stanford NLP | [Python](https://dspy.ai/) | |
+[llm  | Simon Willison | [CLI](https://llm.datasette.io/en/stable/) | |
+Amazon Bedrock | Amazon | Python | |
+Azure AI | Microsoft | Python | |
+Vertex AI | Google | Python | |
+OpenAI SDK | OpenAI | Python | |
 
-## Frameworks
+## AI Agent Frameworks
 
 | Name | Company | Languages |
 |---|---|---|

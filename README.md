@@ -23,22 +23,23 @@ Instructor  | Jason Liu | [Python](https://python.useinstructor.com/), [JavaScri
 Langchain    | Langchain   | [Python](https://python.langchain.com/docs/introduction/), JavaScript | |
 LlamaIndex  | LlamaIndex  | Python, JavaScript | |
 DSPy       | Stanford NLP | [Python](https://dspy.ai/) | |
-[llm  | Simon Willison | [CLI](https://llm.datasette.io/en/stable/) | |
+llm  | Simon Willison | [CLI](https://llm.datasette.io/en/stable/) | |
 Amazon Bedrock | Amazon | Python | |
 Azure AI | Microsoft | Python | |
 Vertex AI | Google | Python | |
 OpenAI SDK | OpenAI | Python | |
 
-## AI Agent Frameworks
+## Agentic AI Frameworks
 
 | Name | Company | Languages |
 |---|---|---|
 CrewAI |  CrewAI | Python |
-LangGraph |  LangChain | Python |
-LlamaIndex Workflow | LlamaIndex | Python |
+LangGraph |  LangChain | [Python](https://github.com/olanigan/ai_cookbook/blob/main/tools/langgraph/Getting_Started.ipynb) |
+Smolagents |  Huggingface | [Python](https://github.com/olanigan/ai_cookbook/tree/main/tools/smolagents) |
 Pydantic AI | Pydantic Services | Python |
+LlamaIndex Workflow | LlamaIndex | Python |
 Phidata | Phidata | Python |
 Bee Agent |  IBM | Python |
-n8n |  n8n | NoCode |
+
 Amazon Bedrock Agents | Amazon | Python |
 Vertex AI Agent Builder | Google | Python |
